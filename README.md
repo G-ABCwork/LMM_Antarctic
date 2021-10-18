@@ -12,3 +12,6 @@
 * [Done] 2021. 07
 * The example of EDA before doing lmms
 
+<p align="center"> 
+  <img src = "./example.jpeg">
+</p>
