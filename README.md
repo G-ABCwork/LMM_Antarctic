@@ -1,2 +1,14 @@
-# Testing differences of responses related to feeling/sleep between the Jang Bogo station and the King Sejong station
-[DONE] Testing differences of feeling/sleep factors between Jang Bogo station and The King Sejong station
+# Doing statistical hypothesis tests
+* Key method
+  + Linear mixed-models(lmm)
+    + Data is repeated measured(along to the time) and there are some missing values
+    + To compare the effects of the two stations on sleep/feelings responses
+  + Posterior analysis: two-sample/paired t-test with bonferroni correction
+    + To test the differences of responses related to sleep/feelings between the two stations in Antarctic
+    + Doing two-sample t-test with Bonferroni correction for the two-stations when the effect of stations is significant in lmm
+    + Doing paired t-test with Bonferroni correction for the measured time-points when the effect of time is significant in lmm 
+* Unfortunately, Due to business security, data and the summary of the analysis result cannot be provided
+* Only R code is provided
+* [Done] 2021. 05 - 2021. 06
+* The example of EDA before doing lmm
+
