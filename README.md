@@ -1,6 +1,6 @@
 # Doing statistical hypothesis tests
 * Key method
-  + Linear mixed-models(lmm)
+  + Linear mixed-models(lmms)
     + Data is repeated measured(along to the time) and there are some missing values
     + To compare the effects of the two stations on sleep/feelings responses
   + Posterior analysis: two-sample/paired t-test with bonferroni correction
@@ -10,5 +10,5 @@
 * Unfortunately, Due to business security, data and the summary of the analysis result cannot be provided
 * Only R code is provided
 * [Done] 2021. 07
-* The example of EDA before doing lmm
+* The example of EDA before doing lmms
 
