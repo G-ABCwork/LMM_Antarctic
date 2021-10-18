@@ -9,6 +9,6 @@
     + Doing paired t-test with Bonferroni correction for the measured time-points when the effect of time is significant in lmm 
 * Unfortunately, Due to business security, data and the summary of the analysis result cannot be provided
 * Only R code is provided
-* [Done] 2021. 05 - 2021. 06
+* [Done] 2021. 07
 * The example of EDA before doing lmm
 
